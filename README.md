@@ -1,4 +1,5 @@
-# Sonic Advance 2 DX
+![banner image](/banner.png)
+
 Sonic Advance 2 Ported to C# Using OpenGL
 
 Keyboard Controls:
